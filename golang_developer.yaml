@@ -35,7 +35,7 @@ metadata:
 
 agents:
   root:
-    model: sonnet
+    model: haiku
     description: Expert Golang developer specializing in the cagent multi-agent AI system architecture
     instruction: |
       <golang_developer>
@@ -88,7 +88,7 @@ agents:
       - librarian
 
   planner:
-    model: sonnet
+    model: haiku
     instruction: |
       You are a planning agent responsible for gathering user requirements and creating a development plan.
       Always ask clarifying questions to ensure you fully understand the user's needs before creating the plan.

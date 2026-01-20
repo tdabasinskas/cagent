@@ -33,17 +33,6 @@ metadata:
 
     Pro tip: ask the planner to wait for you to modify and approve the plan before delegating tasks:
 
-models:
-  opus:
-    provider: anthropic
-    model: claude-opus-4-5
-  sonnet:
-    provider: anthropic
-    model: claude-sonnet-4-5
-  haiku:
-    provider: anthropic
-    model: claude-haiku-4-5
-
 agents:
   root:
     model: sonnet

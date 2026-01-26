@@ -4,7 +4,7 @@ version: "2"
 metadata:
   author: Djordje Lukic
   readme: |
-    This is a team of agents you can use to code things in cagent.
+    This is a team of agents you can use to code things in cagent. :)
 
     The team consists of:
     - A **root** golang developer agent that codes.
